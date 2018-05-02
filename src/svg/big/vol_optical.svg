@@ -14,7 +14,7 @@
    viewBox="0 0 31.999999 31.999998"
    id="svg4239"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (3ce5693, 2018-03-11)"
    sodipodi:docname="vol_optical.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.2"
-     inkscape:cx="4.1540559"
-     inkscape:cy="18.69605"
+     inkscape:zoom="22.4"
+     inkscape:cx="18.207365"
+     inkscape:cy="10.971762"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
-     inkscape:window-x="0"
+     inkscape:window-width="1853"
+     inkscape:window-height="1016"
+     inkscape:window-x="1987"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
@@ -68,7 +68,7 @@
      id="layer2"
      inkscape:label="Layer 2">
     <path
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 19.999999,9.9999964 a 10.000001,10.000001 0 0 0 -10.0000002,9.9999996 10.000001,10.000001 0 0 0 10.0000002,10 10.000001,10.000001 0 0 0 10,-10 10.000001,10.000001 0 0 0 -10,-9.9999996 z m 0,5.9999996 a 4.0000005,4.0000005 0 0 1 4,4 4.0000005,4.0000005 0 0 1 -4,4 4.0000005,4.0000005 0 0 1 -4,-4 4.0000005,4.0000005 0 0 1 4,-4 z m 0,1 a 3.0000005,3.0000005 0 0 0 -3,3 3.0000005,3.0000005 0 0 0 3,3 3.0000005,3.0000005 0 0 0 3,-3 3.0000005,3.0000005 0 0 0 -3,-3 z m 0,1.5 a 1.5000003,1.5000003 0 0 1 1.5,1.5 1.5000003,1.5000003 0 0 1 -1.5,1.5 1.5000003,1.5000003 0 0 1 -1.5,-1.5 1.5000003,1.5000003 0 0 1 1.5,-1.5 z"
        id="path4136"
        inkscape:connector-curvature="0" />

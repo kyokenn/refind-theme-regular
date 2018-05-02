@@ -14,7 +14,7 @@
    viewBox="0 0 64.000001 64.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (3ce5693, 2018-03-11)"
    sodipodi:docname="selection-small.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,18 +27,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.7673396"
-     inkscape:cx="-7.3868871"
-     inkscape:cy="23.323273"
+     inkscape:zoom="8.1562499"
+     inkscape:cx="26.7018"
+     inkscape:cy="30.26694"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
-     showgrid="false"
+     showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
-     inkscape:window-x="0"
+     inkscape:window-width="1853"
+     inkscape:window-height="1016"
+     inkscape:window-x="1987"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -98,14 +102,14 @@
      inkscape:label="Layer 2"
      style="display:inline">
     <rect
-       style="fill:#c0daff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#596e8a;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4137"
        width="48"
        height="48"
        x="8"
        y="-56"
-       rx="1.318249"
-       ry="1.293609"
+       rx="2"
+       ry="2"
        transform="scale(1,-1)" />
   </g>
 </svg>

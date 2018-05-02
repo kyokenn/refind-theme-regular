@@ -14,7 +14,7 @@
    viewBox="0 0 48 48.000001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (3ce5693, 2018-03-11)"
    sodipodi:docname="tool_shell.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -28,15 +28,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.8938103"
-     inkscape:cx="-6.1787664"
-     inkscape:cy="17.183479"
+     inkscape:cx="4.3219586"
+     inkscape:cy="15.420919"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
-     inkscape:window-x="0"
+     inkscape:window-width="1853"
+     inkscape:window-height="1016"
+     inkscape:window-x="1987"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
@@ -82,7 +82,7 @@
      inkscape:label="Layer 2"
      style="display:inline">
     <path
-       style="fill:#808c99;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 15 15 C 14.446 15 14 15.446 14 16 L 14 33 C 14 33.554 14.446 34 15 34 L 33 34 C 33.554 34 34 33.554 34 33 L 34 16 C 34 15.446 33.554 15 33 15 L 15 15 z M 17 17.742188 L 21.648438 20.164062 L 21.648438 20.861328 L 17 23 L 17 21.833984 L 20.138672 20.460938 L 17 18.914062 L 17 17.742188 z "
        id="rect4137" />
   </g>

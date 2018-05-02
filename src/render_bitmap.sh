@@ -9,7 +9,7 @@ BIG_ICON_SRC_DIR="svg/big"
 SMALL_ICON_SRC_DIR="svg/small"
 REG_BIG_ICON_FILENAME='s/^svg\/big\///g;s/.svg$//g'
 REG_SMALL_ICON_FILENAME='s/^svg\/small\///g;s/.svg$//g'
-DPI=90
+DPI=96
 SCALE_PRESET=(1 2 3 4)
 SCALE=1
 SRC_DIR=""
@@ -30,11 +30,11 @@ function render_bitmap(){
                               --export-png="$OUT_DIR/$filename.png" $svgfile> /dev/null \
                     &&
                     if [[ -x $OPTIPNG ]]
-                        then            
+                        then
                             $OPTIPNG -o7 --quiet "$OUT_DIR/$filename.png"
                     fi
-                        
-            fi                         
+
+            fi
         done
 
         if [ -f $OUT_DIR/os_unknown.png ]
@@ -53,7 +53,7 @@ function render_bitmap(){
                         echo "Copying... $OUT_DIR/$f.png"
                         cp -f "$OUT_DIR/tool_rescue.png" "$OUT_DIR/$f.png"
                 done
-                
+
         fi
 }
 function render_big_icon(){
@@ -78,4 +78,4 @@ for i in ${SCALE_PRESET[@]}
         render_big_icon
    	    render_small_icon
 done
-exit 0    	  
+exit 0
